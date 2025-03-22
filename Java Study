@@ -1,1 +1,15 @@
+SOLID Principles:
+
+Single Reposibility: There should be never more than one reason the class to change :: needs to be focused specific single functionality
+  avoid for the changes in below reasons:
+    protocal change
+    message format change
+    communication security change
+  we can have separate class.
+Open closed
+Liskov substitution
+Interface segregation
+Dependency Inversion
+
+
 
